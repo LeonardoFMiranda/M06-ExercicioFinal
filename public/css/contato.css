@@ -1,0 +1,17 @@
+body{
+    background-color: lightcoral;
+    text-align: center;
+    padding: 2em;
+    font-family: 'Courier New', Courier, monospace;
+}
+#button{
+    background-color: lightseagreen;
+    padding: 12px 16px;
+    text-decoration: none;
+    border: 1px solid transparent;
+    border-radius: 25px;
+}
+#button a{
+    text-decoration: none;
+    color: black;
+}
